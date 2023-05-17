@@ -1,5 +1,5 @@
-import promptLoginAndGetCookies from './methods/promptLoginAndGetCookies'
-import checkCookiesValidity from './methods/checkCookiesValidity'
+const promptLoginAndGetCookies =  require('./methods/promptLoginAndGetCookies');
+const checkCookiesValidity = require('./methods/checkCookiesValidity');
 import uploadVideo, {VideoObj} from './methods/uploadVideo'
 import YoutubeUploader from './YoutubeUploader'
 
