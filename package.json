@@ -37,6 +37,6 @@
   },
   "devDependencies": {
     "@types/selenium-webdriver": "^4.1.14",
-    "prettier": "2.2.1"
+    "prettier": "^2.8.8"
   }
 }
